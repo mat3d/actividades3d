@@ -1,6 +1,7 @@
-# actividades3d
+# Actividades3d
 Actividades documentadas para realizar tareas con BlocksCAD
 
+** La documentación de las actividades está aquí en la [wiki]()
 
 ## Licencia
 
